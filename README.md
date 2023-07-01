@@ -44,7 +44,7 @@ Main features of the app:
 
 
 ## Setup
-To run back-end server: open 'blog-app' folder, create .development.env file, provide database credentials and specify port.
+To run back-end server: open 'backend' folder, create .development.env file, provide database credentials and specify port.
 
 Run following commands:
 
@@ -52,7 +52,7 @@ Run following commands:
 npm install
 npm run start:dev
 ```
-To run React application: open 'client' folder
+To run React application: open 'frontend' folder
 
 Run following commands:
 
